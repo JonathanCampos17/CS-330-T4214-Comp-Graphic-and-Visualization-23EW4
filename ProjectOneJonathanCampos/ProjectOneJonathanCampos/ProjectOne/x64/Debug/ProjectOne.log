@@ -1,0 +1,12 @@
+﻿  source.cpp
+C:\Users\jonat\source\repos\ProjectOne\ProjectOne\camera.h(151,27): warning C4552: '*': result of expression not used
+C:\Users\jonat\source\repos\ProjectOne\ProjectOne\source.cpp(290,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jonat\source\repos\ProjectOne\ProjectOne\source.cpp(426,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jonat\source\repos\ProjectOne\ProjectOne\source.cpp(427,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jonat\source\repos\ProjectOne\ProjectOne\source.cpp(431,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jonat\source\repos\ProjectOne\ProjectOne\source.cpp(432,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jonat\source\repos\ProjectOne\ProjectOne\source.cpp(434,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jonat\source\repos\ProjectOne\ProjectOne\source.cpp(435,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jonat\source\repos\ProjectOne\ProjectOne\source.cpp(446,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\jonat\source\repos\ProjectOne\ProjectOne\source.cpp(915): warning C4715: 'UCreateTexture': not all control paths return a value
+  ProjectOne.vcxproj -> C:\Users\jonat\source\repos\ProjectOne\x64\Debug\ProjectOne.exe
